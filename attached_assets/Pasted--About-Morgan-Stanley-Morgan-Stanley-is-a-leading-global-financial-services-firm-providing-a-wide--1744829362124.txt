@@ -1,0 +1,79 @@
+
+
+About Morgan Stanley
+
+Morgan Stanley is a leading global financial services firm providing a wide range of investment banking, securities, wealth management and investment management services. With offices in more than 41 countries, the Firm's employees serve clients worldwide including corporations, governments, institutions and individuals. For further information about Morgan Stanley, please visit www.morganstanley.com .
+
+About Parametric
+
+Parametric is part of Morgan Stanley Investment Management, the asset management division of Morgan Stanley. We partner with advisors, institutions, and consultants to build portfolios focused on what's important to them and their clients. A leader in custom solutions for more than 30 years, we help investors access efficient market exposures, solve implementation challenges, and design multi-asset portfolios that respond to their evolving needs. We also offer systematic alpha and alternative strategies to complement clients' core holdings.
+
+This role is part of Parametric's hybrid working model, which includes working in the office 3 days a week and choosing to work remotely or in the office the remaining days of the week.
+
+About The Team
+
+The Equity Investments and Client Activities team at Parametric:
+
+    We are building financial software that solves some of the world’s most complex financial opportunities. This includes building solutions to provide customized direct index exposure while making tax sensitive asset selection to improve overall after-tax portfolio returns.
+    We design and build financial software responsible for the account life cycle that starts with the onboarding of accounts, managing all client activities and investment instructions, and finally managing equity investment accounts as scale.
+
+About The Role
+
+We are looking for individuals that have a strong curiosity and passion for learning new things, while continuously challenges oneself to build things better and more scalable.
+
+The Software Engineer on the Equity Investments and Client Activities team is a hands-on contributor who plays a critical role in building tools to support portfolio management and culture of data-driven enhancements to our process.
+
+Primary Responsibilities
+
+    Develop new and maintain existing line-of-business applications; strives to develop with high coding standards, thinking about testability and engineering excellence.
+    Utilize and contribute to internal Python and R libraries that support our business activities.
+    Work closely with the business unit and other team members to understand and document requirements.
+    Learn and contribute to applications across the entire stack (backend, DB, front end, UI).
+    Perform work in an agile environment and handle rapid iteration to the UI and design.
+    Create unit/integration/functional tests.
+    Follow technology trends/tools and recommend improvements to our technology when appropriate.
+    Other responsibilities as assigned.
+
+Job QUALIFICATIONS
+
+SkILL SET
+
+Required Experience: 4+ years.
+
+Skill Set: R / Python / VBA / SQL / GraphQL / JavaScript / REST / Docker / OAuth / Software Development / Big Data
+
+Primary Skills
+
+    Bachelor's Degree (4-year degree) in Computer Science/Engineering, or similar required.
+    4+ years of software development experience as an individual contributor.
+    Programming experience in Python or R required, preferably both.
+    Hands on experience developing applications using Python or R.
+    Advanced Excel knowledge required.
+    Understanding of big data ecosystem is required.
+    Experience with RESTful APIs and web service integration.
+    Experience writing SQL or GraphQL queries required.
+    Experience using version control systems (Git).
+    Programming experience in VBA strongly preferred.
+    Cloud native development experience a plus: AWS is preferred, but not required.
+    Web development experience is a plus but not required.
+
+Good To Have Skills
+
+    Financial industry experience specially in top tier G-SIFI.
+    Experience with quantitative modeling, optimization, simulation, portfolio management and portfolio construction.
+    Should be able to challenge BAU.
+    Logical in approach and successful in a startup environment.
+    Ability to understand business requirement and convert that into technological implementations.
+    Quick learner, helpful, dependable & innovative.
+
+Parametric believes each member of our organization makes a significant contribution to our success. That contribution should not be limited by the assigned responsibilities. Therefore, this job description is designed to outline primary duties and qualifications. It is our expectation that every member of our team will offer his/her/their services wherever and whenever necessary to ensure the success of our client services.
+
+Morgan Stanley is an equal opportunities employer. We work to provide a supportive and inclusive environment where all individuals can maximize their full potential. Our skilled and creative workforce is comprised of individuals drawn from a broad cross section of the global communities in which we operate and who reflect a variety of backgrounds, talents, perspectives, and experiences. Our strong commitment to a culture of inclusion is evident through our constant focus on recruiting, developing, and advancing individuals based on their skills and talents.
+
+What You Can Expect From Morgan Stanley
+
+We are committed to maintaining the first-class service and high standard of excellence that have defined Morgan Stanley for over 85 years. At our foundation are five core values — putting clients first, doing the right thing, leading with exceptional ideas, committing to diversity and inclusion, and giving back — that guide our more than 80,000 employees in 1,200 offices across 42 countries. At Morgan Stanley, you’ll find trusted colleagues, committed mentors and a culture that values diverse perspectives, individual intellect and cross-collaboration. We Firm is differentiated by the caliber of our diverse team. While our company culture and commitment to inclusion define our legacy and shape our future, helping to strengthen our business and bring value to clients around the world. Learn more about how we put this commitment to action: morganstanley.com/diversity. We are proud to support our employees and their families at every point along their work-life journey, offering some of the most attractive and comprehensive employee benefits and perks in the industry.
+
+We're committed to bringing passion and customer focus to the business.
+
+Morgan Stanley is an equal opportunities employer. We work to provide a supportive and inclusive environment where all individuals can maximize their full potential. Our skilled and creative workforce is comprised of individuals drawn from a broad cross section of the global communities in which we operate and who reflect a variety of backgrounds, talents, perspectives, and experiences. Our strong commitment to a culture of inclusion is evident through our constant focus on recruiting, developing, and advancing individuals based on their skills and talents.
