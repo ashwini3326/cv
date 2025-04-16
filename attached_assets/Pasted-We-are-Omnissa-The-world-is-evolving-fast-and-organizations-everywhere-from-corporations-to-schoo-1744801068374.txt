@@ -1,0 +1,50 @@
+We are Omnissa!
+
+The world is evolving fast, and organizations everywhere—from corporations to schools—are under immense pressure to provide flexible, work-from-anywhere solutions. They need IT infrastructure that empowers employees and customers to access applications from any device, on any cloud, all while maintaining top-tier security. That’s where Omnissa comes in. The Omnissa Platform is the first AI-driven digital work platform that enables smart, seamless and secure work experiences from anywhere. It uniquely integrates multiple industry-leading solutions including Unified Endpoint Management, Virtual Apps and Desktops, Digital Employee Experience, and Security & Compliance through common data, identity, administration, and automation services. Built on the vision of autonomous workspaces - self configuring, self-healing, and self-securing - Omnissa continuously adapts to the way people work; delivering personalized and engaging employee experiences, while optimizing security, IT operations and costs. we're experiencing rapid growth—and this is just the beginning of our journey!
+
+At Omnissa, we’re driven by a shared mission to maximize value for our customers. Our five Core Values guide us: Act in Alignment, Build Trust, Foster Inclusiveness, Drive Efficiency, and Maximize Customer Value—all with the aim of achieving shared success for our clients and our team. As a global private company with over 4,000 employees, we’re always looking for passionate, talented individuals to join us. If you're ready to make an impact and help shape the future of work, we’d love to hear from you! What is the opportunity?: You have an analytical mind and a passion for the craft of software engineering, and you love solving problems and learning new things. Technologies come and go, but that excites you because of the endless possibilities it creates. You are looking for an opportunity to work for a company whose software is utilized by every Fortune 500 company and significantly impacts every industry. You want to be a part of a collaborative environment whose teams care about the product they are creating, how they create it, and the impact it has on customers’ business objectives.
+
+ As a Member of Technical Staff, you will be responsible for : 
+
+     Design, build and maintain reliable, reusable, testable code that expands our platform’s core services and capabilities, while also enhancing their scalability and resilience.
+     Identify and troubleshoot performance and code quality issues.
+     you will take ownership of engineering initiatives and promote a culture of high ownership, continuous improvement, and engineering excellence.
+     Active engagement with different stake holders - Product Managers, Solution Architects, Security Engineering, other members within Engineering and External Partners as needed to define and deliver the required solution.
+     We operate with Dev own quality mindset, which will require your active participation in all stages of software development - requirement, design, coding, test automation and debugging.
+     Perform code reviews and ensure coding best practices.
+
+You Are Expected To Be Proficient In The Following
+
+     High proficiency and experience in Unix/Linux platforms.
+     Working experience with Python, Docker, OpenSearch and Redis/Valkey.
+     Good understanding of and experience in software architecture and high-performance, scalable distributed systems.
+     Solid grasp of application architecture, networking, security, reliability, and scalability concepts.
+     Strong DevOps experience, including building and maintaining CI/CD pipelines.
+     Collaboration skills for working with distributed teams (Omnissa has teams globally).
+
+ Looking for candidates with 4-8 years of experience in software engineering. 
+
+ Additionally, the following skills and qualifications will help you stand-out: 
+
+     Comprehensive knowledge and work experience with any or all of the following technologies: Redis, PostgreSQL, Kafka, and OpenSearch.
+     Strong foundation in Linux file systems, memory, and multi-threading.
+     Experience maintaining a large number of production deployments.
+     Hands-on experience with AWS Cloud solutions and managed cloud services like MSK and Aurora, OpenSearch.
+     Working knowledge of infrastructure technologies such as OS (Linux and Windows), Network, Database, Server, Storage, etc.
+
+Location: Bengaluru 
+
+ Location Type: HYBRID. This role offers a balanced arrangement, with the expectation of working 3 days a week in our local office and the flexibility to work from home for the remaining days. It is essential that you reside within a reasonable commuting distance of the office location for the in-office workdays.
+
+What is the leadership like for this role? What is the structure and culture of the team like? Report to the Manager / Sr. Manager. Work closely with a committed team of engineers, product managers, and developers focused on innovation and getting things done. Build trust among team members and stakeholders, commitment to customer success. Operate in a transparent, communicative environment that emphasises work-life balance and having fun at work.
+
+Omnissa Industry Recognition And Awards
+
+     Gartner Magic Quadrant: Consistently positioned as a leader in Gartner’s Magic Quadrant for Desktop as a Service (DaaS) and Virtual Desktop Infrastructure (VDI).
+     IDC MarketScape Q2 2024: Recognized as a leader in IDC MarketScape reports for EUC.
+     Forrester Wave report for Q4 2023: Workspace ONE received the highest scores in the current offering category and the second-highest scores in the strategy category.
+     Customer Satisfaction and Reviews: High ratings and positive reviews on platforms like Gartner Peer Insights and TrustRadius.
+
+Omnissa’s commitment to diversity & inclusion: Omnissa is committed to building a workforce that reflects the communities we serve across the globe. We believe this brings unique perspectives, experiences, and ideas, which are essential for driving innovation and achieving business success. We hire based on merit and with equal opportunity for all."
+
+ Omnissa is an Equal Employment Opportunity company and Prohibits Discrimination and Harassment of Any Kind: Omnissa is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Omnissa are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Omnissa will not tolerate discrimination or harassment based on any of these characteristics. Omnissa welcomes applicants of all ages. Omnissa will provide reasonable accommodations to applicants and employees who have protected disabilities consistent with local law.
