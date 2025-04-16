@@ -1,0 +1,29 @@
+
+name: Build Resume
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Rust
+        uses: dtolnay/rust-toolchain@stable
+        
+      - name: Install Typst
+        run: cargo install --locked typst-cli
+        
+      - name: Build Resume
+        run: typst compile resume.typ resume.pdf
+        
+      - name: Upload PDF
+        uses: actions/upload-artifact@v4
+        with:
+          name: resume
+          path: resume.pdf
