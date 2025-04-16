@@ -7,13 +7,13 @@
   description: "Red Hat Inc.",
 )
 #resume-item[
-- Developing and maintaining secure, high-quality Python applications in large-scale enterprise environment
-- Implementing CI/CD pipelines and automated testing frameworks to ensure code quality and security
-- Collaborating with cross-functional teams to design and troubleshoot distributed systems
-- Contributing to system architecture decisions focusing on application resiliency and scalability
-- Working with cloud services and containerized applications in production environments
-- Participating in code reviews and implementing security best practices
-- Technical Skills: Python, FastAPI, Docker, Git, CI/CD, Cloud Services, Linux
+- Developing and maintaining enterprise Python applications with focus on scalability and performance
+- Building and integrating RESTful APIs and microservices for financial data processing
+- Implementing automated testing frameworks and maintaining high code quality standards
+- Working with large datasets and optimizing data processing workflows
+- Collaborating with cross-functional teams to deliver robust software solutions
+- Experience with cloud services and containerized applications
+- Technical Skills: Python, SQL, REST APIs, Git, Docker, Cloud Services, Unit Testing
 ]
 
 #resume-entry(

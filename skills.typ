@@ -3,22 +3,22 @@
 
 #resume-skill-item(
   "Development",
-  ("Strong foundation in" + strong(" Python") + " with focus on secure, maintainable code",)
+  ("Expert in" + strong(" Python") + " and" + strong(" SQL") + " with focus on financial applications",)
 )
 
 #resume-skill-item(
-  "System Design",
-  ("Experience with" + strong(" Enterprise Applications") + "," + strong(" Distributed Systems") + ", and Application Resiliency",)
+  "Data Processing",
+  ("Experience with" + strong(" Big Data") + "," + strong(" Data Analytics") + ", and" + strong(" Excel/VBA"),)
 )
 
 #resume-skill-item(
-  "Software Lifecycle",
-  ("Practical experience with" + strong(" SDLC") + "," + strong(" Agile") + ", and" + strong(" CI/CD") + " methodologies",)
+  "API Development",
+  ("Proficient in" + strong(" REST APIs") + "," + strong(" GraphQL") + ", and Web Services",)
 )
 
 #resume-skill-item(
-  "Database & Cloud",
-  ("Working knowledge of" + strong(" SQL") + ", Cloud Platforms, and System Integration",)
+  "Tools & Technologies",
+  ("Expertise in" + strong(" Git") + "," + strong(" Docker") + ", and Cloud Platforms",)
 )
 
 #resume-skill-item(
