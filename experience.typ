@@ -7,13 +7,13 @@
   description: "Red Hat Inc.",
 )
 #resume-item[
-- Implementing distributed systems and microservices using Python with FastAPI/Flask frameworks
-- Building secure and scalable RESTful APIs with comprehensive testing coverage
-- Developing automated deployment pipelines using GitLab CI/CD and Tekton
-- Maintaining containerized applications with Docker and Kubernetes orchestration
-- Contributing to system architecture decisions and code quality improvements
-- Working with cloud services and Linux environments for production deployments
-- Technical Skills: Python, FastAPI, Docker, Git/GitLab, Tekton, Kubernetes, Linux (RHEL)
+- Developing and maintaining secure, high-quality Python applications in large-scale enterprise environment
+- Implementing CI/CD pipelines and automated testing frameworks to ensure code quality and security
+- Collaborating with cross-functional teams to design and troubleshoot distributed systems
+- Contributing to system architecture decisions focusing on application resiliency and scalability
+- Working with cloud services and containerized applications in production environments
+- Participating in code reviews and implementing security best practices
+- Technical Skills: Python, FastAPI, Docker, Git, CI/CD, Cloud Services, Linux
 ]
 
 #resume-entry(

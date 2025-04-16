@@ -3,17 +3,22 @@
 
 #resume-skill-item(
   "Development",
-  ("Proficient in" + strong(" Python") + " and" + strong(" Rust") + " development",)
+  ("Strong foundation in" + strong(" Python") + " with focus on secure, maintainable code",)
 )
 
 #resume-skill-item(
   "System Design",
-  ("Experience with" + strong(" Distributed Systems") + "," + strong(" Microservices") + ", and Service Mesh",)
+  ("Experience with" + strong(" Enterprise Applications") + "," + strong(" Distributed Systems") + ", and Application Resiliency",)
 )
 
 #resume-skill-item(
-  "DevOps & Cloud",
-  ("Working knowledge of" + strong(" CI/CD") + "," + strong(" Docker") + ", and Cloud Platforms",)
+  "Software Lifecycle",
+  ("Practical experience with" + strong(" SDLC") + "," + strong(" Agile") + ", and" + strong(" CI/CD") + " methodologies",)
+)
+
+#resume-skill-item(
+  "Database & Cloud",
+  ("Working knowledge of" + strong(" SQL") + ", Cloud Platforms, and System Integration",)
 )
 
 #resume-skill-item(
