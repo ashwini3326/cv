@@ -1,6 +1,7 @@
-{pkgs}: {
+
+{ pkgs }: {
   deps = [
-    pkgs.rustc
+    pkgs.rustc_1_86
     pkgs.cargo
   ];
 }
