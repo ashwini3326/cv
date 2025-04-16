@@ -3,13 +3,29 @@
 
 #resume-skill-item(
   "Development",
-  ("Developing scalable codes in" + strong(" Python ") + "and" + strong(" Rust"),)
+  ("Proficient in" + strong(" Python") + " and" + strong(" Rust") + " development",)
 )
 
 #resume-skill-item(
-  "Concepts",
-  ("Adhering with Philosophy of " + strong("Micro-services"),"Cloud Computing " + "and "+ "OOPS"),
+  "System Design",
+  ("Experience with" + strong(" Distributed Systems") + "," + strong(" Microservices") + ", and Service Mesh",)
 )
+
+#resume-skill-item(
+  "DevOps & Cloud",
+  ("Working knowledge of" + strong(" CI/CD") + "," + strong(" Docker") + ", and Cloud Platforms",)
+)
+
+#resume-skill-item(
+  "Security",
+  ("Understanding of" + strong(" OAuth") + "," + strong(" JWT") + ", and API Security",)
+)
+
+#resume-skill-item(
+  "Monitoring",
+  ("Familiar with" + strong(" Prometheus") + "," + strong(" Grafana") + ", and logging systems",)
+)
+
 #resume-skill-item(
   "Library",
   ("Nowadays using " + strong("FastAPI, Click ") + "and" + strong(" PyTest"),)

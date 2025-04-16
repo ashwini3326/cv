@@ -7,13 +7,13 @@
   description: "Red Hat Inc.",
 )
 #resume-item[
-- Developing parts of Red Hat internal products for Automation and Application Development.
-- Debugging applications and codes.
-- Writing RESTful API for Microservices using Flask and FastAPI
-- Writing unit test code for Microservices.
-- Developing pipelines for Continuous Deployment of application.
-- Reviewing peer codes.
-- Technical Skills: Python , Rust, Git/GitLab, Tekton, Azure, Redhat Linux.
+- Implementing distributed systems and microservices using Python with FastAPI/Flask frameworks
+- Building secure and scalable RESTful APIs with comprehensive testing coverage
+- Developing automated deployment pipelines using GitLab CI/CD and Tekton
+- Maintaining containerized applications with Docker and Kubernetes orchestration
+- Contributing to system architecture decisions and code quality improvements
+- Working with cloud services and Linux environments for production deployments
+- Technical Skills: Python, FastAPI, Docker, Git/GitLab, Tekton, Kubernetes, Linux (RHEL)
 ]
 
 #resume-entry(
